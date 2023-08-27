@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719605889771",
+    "project_id": "bloco-de-notas-18ff4",
+    "storage_bucket": "bloco-de-notas-18ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719605889771:android:3b846be748ef0f75d19cae",
+        "android_client_info": {
+          "package_name": "com.example.bloco_de_notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719605889771-avktgs5l6pak1hv31qae2hhv569nnkj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjyyO2VlGtWC3x3GroqsCR9fsGjJhcte4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719605889771-avktgs5l6pak1hv31qae2hhv569nnkj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
